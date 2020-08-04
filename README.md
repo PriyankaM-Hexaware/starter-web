@@ -14,7 +14,7 @@ Save and commit lot of files
 
 ## How to contriute
 
-Practicing all changes
+Please fork this repository and then issue pull request for review.
 
 ## Copyright
 
