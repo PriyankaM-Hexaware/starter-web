@@ -15,3 +15,7 @@ Save and commit lot of files
 ## How to contriute
 
 Practicing all changes
+
+## Copyright
+
+2020 Git.Taining.
