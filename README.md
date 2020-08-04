@@ -10,4 +10,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Save and commit lot of files
+
 ## How to contriute
+
+Practicing all changes
